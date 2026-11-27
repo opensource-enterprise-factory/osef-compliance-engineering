@@ -1,0 +1,2 @@
+# ConformAI — enseignements publics
+Initiative produit distincte d'OSEF. Recommandations exploratoires : exigences versionnées, contrôles, preuves horodatées et empreintes, évaluations, remédiation, assistant IA sourcé et revue humaine. OSCAL comme format candidat, scanners interchangeables. Ne publier ici ni propriété intellectuelle confidentielle ni données client. Différenciation à valider : besoins africains, français et souveraineté.
