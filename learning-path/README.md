@@ -1,6 +1,9 @@
 # OSEF Continuous Compliance Engineer
 Parcours de qualification interne proposé v0.1 — [issue #43](https://github.com/opensource-enterprise-factory/osef-compliance-engineering/issues/43). Aucun niveau attribué avant approbation et évaluation.
 ## Documents
+- [Programme détaillé sur 12 semaines](curriculum/README.md)
+- [Plan des examens et exercices blancs](curriculum/assessment-plan.md)
+- [Suivi GitHub de la cohorte](curriculum/github-tracking.md)
 - [Référentiel des 16 compétences et quatre niveaux](competency-framework.md)
 - [Missions ADVISE / BUILD / OPERATE et habilitations](mission-matrix.md)
 - [Règlement de certification interne](certification-rules.md)
